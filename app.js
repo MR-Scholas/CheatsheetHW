@@ -1,10 +1,9 @@
 
 
 //ketyword --- name --- () => {}
-const changeButton = () => 
+const changeButton =  () => 
 {
-    //this is where i put my instructions
-    let ourButton = document.querySelectorAll{'.attnBtn'}
-
-    ourButton.innerHTML = "COMPLETED"
-}
+    // this is where i put my instructions
+    let container = document.querySelector('.lowContainer')
+   container.innerHTML=" HEY! THIS WORKS"
+}   
