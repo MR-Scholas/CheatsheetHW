@@ -24,7 +24,10 @@
 
 .topTitle
 {
-    width:25%;
+    text-align:center;
+    margin:.1em;
+    margin-top:12%;
+    width:13%;
 }
 
 .pTitle
