@@ -1,0 +1,62 @@
+.topContainer
+{
+    border:solid blue;
+    padding:1em;
+    margin:1em;
+}
+
+.midContainer
+{
+    border:solid green;
+    height:42vh;
+    margin:1em;
+}
+
+.lowContainer
+{
+    border:solid purple;
+    height:42vh;
+    margin:1em;
+}
+
+.topTitle
+{
+    width:25%;
+}
+
+.pTitle
+{
+    border:solid peru;
+    width:33%;
+}
+
+.phaseContainer
+{
+    border:solid black;
+    border-width:.1px
+}
+
+.phase
+{
+    display:flex;
+    padding:1em;
+}
+
+.phase:hover
+{
+    background-color:lightblue;
+    border:solid blue;
+    /*margin:1em;*/
+    display:flex;
+    padding:1em;
+}
+
+.attnBtn
+{
+    border:solid blue;
+    border-width:.2px;
+    height:20px;
+    margin:.5em;
+    text-align:center;
+    
+}
