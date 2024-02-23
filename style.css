@@ -3,6 +3,7 @@
     border:solid blue;
     padding:1em;
     margin:1em;
+    display:flex;
 }
 
 .midContainer
@@ -10,6 +11,8 @@
     border:solid green;
     height:42vh;
     margin:1em;
+    display:flex;
+    flex-wrap:wrap;
 }
 
 .lowContainer
